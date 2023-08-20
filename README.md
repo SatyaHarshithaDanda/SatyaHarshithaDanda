@@ -2,7 +2,7 @@
 # Hi, I'm Satya Harshitha Danda!👋
 
 ## 🚀 About Me
-I'm a Full Stack Data Scientist & an aspiring BI Analyst.
+I'm a Full Stack Data Scientist & an Aspiring BI Analyst.
 
 
 ## 🔗 Links
@@ -13,5 +13,5 @@ I'm a Full Stack Data Scientist & an aspiring BI Analyst.
 1. Python
 2. Machiene Learning
 3. Deep Learning
-4. Data Sience
+4. Data Science
 
