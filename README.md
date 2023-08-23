@@ -9,16 +9,9 @@ I'm a Full Stack Data Scientist & an Aspiring BI Analyst.
 
 ## 🛠 Skills
 1. Python
-2. Data Science
+2. R Programming
 3. Machine Learning - Deep Learning (CV & NLP)
 4. Data Analytics
-5. SQL
-6. Excel
-7. Microsoft Power BI
-8. Tableau
-9. Web Scraping
-10. Cloud Deployment
-11. R Programming
-12. Statistics
-    
+5. Microsoft Power BI
+
 ![Screenshot 2023-08-23 224656](https://github.com/SatyaHarshithaDanda/SatyaHarshithaDanda/assets/101806746/0543523a-77cb-446c-a04b-48664163792b)
