@@ -10,7 +10,7 @@ I'm a Full Stack Data Scientist & an Aspiring BI Analyst.
 
 
 ## 🛠 Skills
-1. Python
+1. Python                         2. Machiene Learning
 2. Machiene Learning
 3. Deep Learning
 4. Data Science
