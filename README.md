@@ -8,12 +8,12 @@ I'm a Full Stack Data Scientist & an Aspiring BI Analyst.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satya-harshitha-danda/)
 
 ## 🛠 Skills
-1. Python
+1. Python                                                          6. Excel
 2. Data Science
 3. Machiene Learning - Deep Learning(CV & NLP)
 4. Data Analytics
 5. SQL
-6. Excel
+
 7. Microsoft Power BI
 8. Tableau
 9. Web Scraping
