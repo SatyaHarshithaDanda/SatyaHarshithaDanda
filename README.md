@@ -15,3 +15,4 @@ I'm a Full Stack Data Scientist & an Aspiring BI Analyst.
 3. Deep Learning
 4. Data Science
 
+![Screenshot 2023-08-23 224656](https://github.com/SatyaHarshithaDanda/SatyaHarshithaDanda/assets/101806746/0543523a-77cb-446c-a04b-48664163792b)
