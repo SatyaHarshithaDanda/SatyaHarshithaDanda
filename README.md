@@ -8,7 +8,7 @@ I'm a Full Stack Data Scientist & BI Analyst.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satya-harshitha-danda/)
 
 ## 🛠 Skills
-1. Python
+1. Python                                             6. Generative AI
 2. R Programming
 3. Machine Learning - Deep Learning (CV & NLP)
 4. Data Analytics
