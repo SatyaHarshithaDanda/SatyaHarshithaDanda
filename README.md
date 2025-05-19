@@ -1,7 +1,7 @@
 # Hi, I'm Satya Harshitha Danda!👋
 
 ## 🚀 About Me
-I'm a Full-Stack Data Scientist transitioning into the AGI era — currently exploring the next generation of intelligent, multimodal agents.
+I'm a Full-Stack Data Scientist transitioning into the AGI era — currently exploring the next generation of multimodal agents.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satya-harshitha-danda/)
